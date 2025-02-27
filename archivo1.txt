@@ -1,1 +1,1 @@
-esto es un archivo de la rama main 
+ esto es un archivo en la rama feature2 y se realizan cambios diferentes
